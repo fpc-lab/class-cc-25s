@@ -40,4 +40,4 @@
 ### Links
 
 - [**Schedule**](./schedule.md) / [**Lecture Topics**](./lecture-topics.md)
-- [**Project**](https://www.notion.so/Project-16c20e4a9d6580ee9732ec1089f25bea?pvs=21) / [**Homework**](https://plms.postech.ac.kr/course/view.php?id=12860)
+- **Project Topics** / [**Homework**](https://plms.postech.ac.kr/course/view.php?id=12860)
