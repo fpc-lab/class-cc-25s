@@ -39,5 +39,5 @@
 
 ### Links
 
-- [**Schedule**](https://www.notion.so/Schedule-2f320e4a9d6580419f56fa0cd6bc9fd2?pvs=21) / [**Lecture Topics**](https://www.notion.so/Lectures-Topics-16c20e4a9d6580718812f7c43bfd69b9?pvs=21)
+- [**Schedule**](./schedule.md) / [**Lecture Topics**](./lecture-topics.md)
 - [**Project**](https://www.notion.so/Project-16c20e4a9d6580ee9732ec1089f25bea?pvs=21) / [**Homework**](https://plms.postech.ac.kr/course/view.php?id=12860)
