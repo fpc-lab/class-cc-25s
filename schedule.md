@@ -32,5 +32,5 @@
 | 5/22 |              | Integration & Course Summary | HW4 out (5/25 Sun) |
 | 5/27 | Project      | **Final Presentations (2 Projects)** | **Final Slides due (5/26 Mon)** |
 | 5/29 |              | **Final Presentations (2 Projects)** |  |
-| 6/4  |              | **Final Presentations (4 Projects)** <br>[Time: 13:00—15:30] |  |
-| 6/5  |              | **Final Presentations (3 Projects)** <br>[Time: 09:30—11:30] | **HW4 due (6/8 Sun) <br>Final Report due (6/8 Sun)** |
+| 6/4  |              | **Final Presentations (4 Projects)** [13:00—15:30] |  |
+| 6/5  |              | **Final Presentations (3 Projects)** [09:30—11:30] | **HW4 due (6/8 Sun) <br>Final Report due (6/8 Sun)** |
