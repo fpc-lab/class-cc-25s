@@ -3,11 +3,11 @@
 | Date | Unit | Topic | Out | Due |
 | ---  | ---  | ---   | ---          | ---  |
 | 2/18 | Introduction | Course Overview |  |  |
-| 2/20 | Reals        | Computable Reals (Definitions) |  |  |
+| 2/20 | Numbers: Reals        | Computable Reals (Definitions) |  |  |
 | 2/25 |              | Computable Reals (Examples) |  |  |
 | 2/27 |              | Computable Functions (Definitions) |  |  |
 | 3/4  |              | Computable Functions (Examples) |  |  |
-| 3/6  | Floats       | Floating-Point Arithmetic | HW1 | Project Selection |
+| 3/6  | Numbers: Floats       | Floating-Point Arithmetic | HW1 | Project Selection |
 | 3/11 | —            | [No Class] (Military Training) |  |  |
 | 3/13 |              | Floating-Point Errors (Manual Analysis) |  |  |
 | 3/18 |              | Floating-Point Errors (Cancellation, Overflow) |   |  |
@@ -26,7 +26,7 @@
 | 5/1  |              | Automatic Differentiation (Recent Results) |  |  |
 | 5/6  | —            | [No Class] (Holiday) |  |  |
 | 5/8  | —            | [No Class] (POSTECH Festival) |  | HW3 (5/9) |
-| 5/13 | Randomness + Integrals | Random Numbers |  |  |
+| 5/13 | Distributions + Integrals | Random Numbers |  |  |
 | 5/15 |              | Sampling (Transformation Methods) |  |  |
 | 5/20 |              | Sampling (Rejection Methods) |  |  |
 | 5/22 |              | Integration & Course Summary | HW4 (5/25) |  |
