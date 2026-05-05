@@ -8,10 +8,10 @@
 
 ### Reals
 
-- **Computable Reals:** Definitions, examples.
+- **Computable Reals:** Definitions, (non-)examples.
     - [Computability and Analysis](https://arxiv.org/abs/1206.3431) [2014, Avigad+] (§1-2).
     - [A Tutorial on Computable Analysis](https://link.springer.com/chapter/10.1007/978-0-387-68546-5_18) [2008, Brattka+] (§1-3).
-- **Computable Operations**: Comparison, functions.
+- **Computable Functions**: Definitions, (non-)examples.
     - [Recursive Real Numbers](https://www.jstor.org/stable/2031867?seq=1) [1954, Rice].
     - [Computing over the Reals](https://www.ams.org/journals/notices/200603/fea-cook.pdf) [2006, Braverman+].
     - [A Tutorial on Computable Analysis](https://link.springer.com/chapter/10.1007/978-0-387-68546-5_18) [2008, Brattka+] (§4).
@@ -49,7 +49,7 @@
 
 ### Integrals
 
-- **Continuous Distributions:** Transformation/inversion method, rejection/mixture method.
+- **Continuous Distributions:** Inversion/transformation method, rejection/mixture method.
     - [Monte Carlo Theory, Methods and Examples](https://artowen.su.domains/mc/) [2013, Owen] (§??).
     - [Lecture Notes of “Monte Carlo Methods and Applications”](https://www.math.cmu.edu/~gautam/c/2024-387/notes/index.html) [2024, Iyer] (§??).
 - **Numerical & Monte Carlo Integration:** Consistency/bias/variance, convergence.
