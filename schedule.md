@@ -8,7 +8,7 @@
 | 2/27 |              | Computable Operations (Comparison) |  |
 | 3/4  |              | Computable Operations (Functions) |  |
 | 3/6  | Floats       | Floating-Point Arithmetic | **Project Selection due** / HW1 out |
-| 3/11 |              | No Class (Military Training) |  |
+| 3/11 | —            | [No Class] (Military Training) |  |
 | 3/13 |              | Floating-Point Errors (Error Analysis) |  |
 | 3/18 |              | Floating-Point Errors (Cancellation, Overflow) |   |
 | 3/20 |              | Automatic Error Analysis | **HW1 due** |
@@ -24,8 +24,8 @@
 | 4/24 |              | Symbolic & Automatic Differentiation | HW3 out (4/25 Fri) |
 | 4/29 |              | Automatic Differentiation (Reverse Mode) |  |
 | 5/1  |              | Automatic Differentiation (Recent Results) |  |
-| 5/6  | —            | No Class (Holiday) |  |
-| 5/8  | —            | No Class (POSTECH Festival) | **HW3 due (5/9 Fri)** |
+| 5/6  | —            | [No Class] (Holiday) |  |
+| 5/8  | —            | [No Class] (POSTECH Festival) | **HW3 due (5/9 Fri)** |
 | 5/13 | Random Numbers | Random Numbers |  |
 | 5/15 |              | Sample Generation (Inversion) |  |
 | 5/20 |              | Sample Generation (Transformation, Rejection) |  |
