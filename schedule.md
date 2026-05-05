@@ -16,7 +16,7 @@
 | 3/27 | Project      | **Proposal Presentations (11 Projects)** |  | Proposal Slides (3/26) |
 | 4/1  | Functions    | Polynomial Approximation |  |  |
 | 4/3  |              | Minmax Polynomials (Properties) | HW2 (4/4) |  |
-| 4/8  |              | Minmax Polynomials (Algorithm) |  |  |
+| 4/8  |              | Minmax Polynomials (Algorithms) |  |  |
 | 4/10 |              | Range Reduction (Examples) |  |  |
 | 4/15 |              | Range Reduction (Implementations) |  |  |
 | 4/17 | Derivatives  | Review of Derivatives |  | HW2 (4/18) |
