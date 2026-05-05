@@ -10,7 +10,7 @@
 
 ### Overview
 
-- **Continuous computation**, which involves continuous data and operations, is fundamental to many areas of computer science (e.g., machine learning and scientific computing).
+- **Continuous computation**, which involves continuous data and operations, is fundamental to many areas of computer science such as machine learning and scientific computing.
   Common examples include evaluating mathematical functions (e.g., numpy.exp(x)) and computing derivatives of programs (e.g., jax.grad(f)).
 - This course introduces the **foundations** of continuous computation.
   It covers a broad range of topics, from basic computations (e.g., evaluating mathematical functions) to advanced computations (e.g., computing derivatives and integrals).
