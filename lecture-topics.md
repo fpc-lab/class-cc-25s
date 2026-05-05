@@ -28,7 +28,7 @@
 - **Fixed-Precision Evaluation (Basics):** Polynomial approximation, range reduction.
     - [Handbook of Floating-Point Arithmetic](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§10.1-10.3).
     - [Elementary Functions (3ed)](https://link.springer.com/book/10.1007/978-1-4899-7983-4) [2016, Muller] (§3, 4, 6.1-6.2, 11.1, 14).
-- **Fixed-Precision Evaluation (Advanced):** Accurate computation, correct rounding.
+- **Fixed-Precision Evaluation (Advanced):** Accurate computations, actual implementations.
     - [Handbook of Floating-Point Arithmetic](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§10.2, 10.4-10.6).
     - [Elementary Functions (3ed)](https://link.springer.com/book/10.1007/978-1-4899-7983-4) [2016, Muller] (§5, 11.2, 12).
 - ~~**Arbitrary-Precision Evaluation:** Integer multiplication, power series.~~
@@ -37,7 +37,7 @@
 
 ### Derivatives
 
-- **Numerical & Symbolic Differentiation:** Derivatives, accuracy/efficiency.
+- **Classical Differentiation:** Derivatives, numerical/symbolic differentiation, accuracy/efficiency.
     - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2024, Blondel+] (§2, 7).
     - [A Hitchhikers Guide to Automatic Differentiation](https://link.springer.com/article/10.1007/s11075-015-0067-6) [2016, Hoffmann] (§5).
 - **Automatic Differentiation (Basics):** Forward/reverse mode, dual numbers.
@@ -49,7 +49,7 @@
 
 ### Integrals
 
-- **Continuous Distributions:** Inversion/transformation method, rejection/mixture method.
+- **Continuous Distributions:** Inversion/transformation methods, rejection/mixture methods.
     - [Monte Carlo Theory, Methods and Examples](https://artowen.su.domains/mc/) [2013, Owen] (§??).
     - [Lecture Notes of “Monte Carlo Methods and Applications”](https://www.math.cmu.edu/~gautam/c/2024-387/notes/index.html) [2024, Iyer] (§??).
 - **Numerical & Monte Carlo Integration:** Consistency/bias/variance, convergence.
