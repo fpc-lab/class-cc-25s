@@ -3,10 +3,10 @@
 | Date | Unit | Topic | Out | Due |
 | ---  | ---  | ---   | ---          | ---  |
 | 2/18 | Introduction | Course Overview |  |  |
-| 2/20 | Reals        | Computable Reals (Introduction) |  |  |
-| 2/25 |              | Computable Reals (Definitions, Examples) |  |  |
-| 2/27 |              | Computable Operations (Comparison) |  |  |
-| 3/4  |              | Computable Operations (Functions) |  |  |
+| 2/20 | Reals        | Computable Reals (Definition) |  |  |
+| 2/25 |              | Computable Reals (Examples) |  |  |
+| 2/27 |              | Computable Functions (Definition) |  |  |
+| 3/4  |              | Computable Functions (Examples) |  |  |
 | 3/6  | Floats       | Floating-Point Arithmetic | HW1 | Project Selection |
 | 3/11 | —            | [No Class] (Military Training) |  |  |
 | 3/13 |              | Floating-Point Errors (Error Analysis) |  |  |
