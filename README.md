@@ -5,8 +5,8 @@
 - **Course Number:** POSTECH CSED490V
 - **Course PLMS:** https://plms.postech.ac.kr/course/view.php?id=12860
 - **Staff:** [Wonyeol Lee](https://wonyeol.github.io/) (Instructor), Jinseok Chung (TA)
-- **Lectures:** Tuesdays & Thursdays, 9:30am—10:45am (Science Bldg Ⅱ #107; 공학2동 107호)
-- **Office Hours:** Thursdays, 5pm—6pm (PIAI #335; 인공지능연구원 335호)
+- **Lectures:** Tuesdays & Thursdays, 09:30—10:45 (Science Bldg Ⅱ #107; 공학2동 107호)
+- **Office Hours:** Thursdays, 17:00—18:00 (PIAI #335; 인공지능연구원 335호)
 
 ### Overview
 
