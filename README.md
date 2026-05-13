@@ -13,10 +13,10 @@
 - **Continuous computation**, which involves continuous data and operations, is fundamental to many areas of computer science such as machine learning and scientific computing.
   Common examples include evaluating mathematical functions (e.g., numpy.exp(x)) and computing derivatives of programs (e.g., jax.grad(f)).
 - This course introduces the **foundations** of continuous computation.
-  It covers a broad range of topics, from basic computations (e.g., evaluating mathematical functions) to advanced ones (e.g., computing derivatives and integrals).
+  It covers a broad range of topics, from basic computations (e.g., evaluating math functions) to advanced ones (e.g., computing derivatives).
   Students will learn how to perform these computations *correctly and efficiently on actual computers*.
-- In essence, this course serves as a **continuous** counterpart to traditional Algorithms courses,
-  a **computational** counterpart to traditional Calculus and Probability courses, and a **foundational** counterpart to traditional Numerical Analysis courses.
+- In essence, this course serves as a **continuous** counterpart to an Algorithms course,
+  a **computational** counterpart to a Calculus/Probability course, and a **foundational** counterpart to a Numerical Analysis course.
   Lectures will start from first principles and emphasize both *mathematical theory and computational methods*.
 
 ### Prerequisites
